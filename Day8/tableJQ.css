@@ -1,0 +1,15 @@
+body {
+  background: #CCCCFF;
+}
+#division {
+  margin: 0 auto;
+}
+.p {
+  display: inline;
+}
+#th {
+  cursor: pointer;
+}
+#table {
+  margin: 0 auto;
+}
